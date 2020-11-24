@@ -1,4 +1,5 @@
-
+django
+html
 
 git command
 git init
