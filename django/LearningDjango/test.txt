@@ -1,5 +1,4 @@
-django
-html
+
 
 git command
 git init
@@ -8,3 +7,6 @@ git add .
 git log
 git log --oneline
 git commit -m "message"
+
+git checkout "onelinenumber" "filename.extn"
+git reset HEAD filename.extn
