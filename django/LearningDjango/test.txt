@@ -1,2 +1,9 @@
-html test
-add one more line
+
+
+git command
+git init
+git status
+git add .
+git log
+git log --oneline
+git commit -m "message"
