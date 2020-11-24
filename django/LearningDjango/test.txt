@@ -10,3 +10,4 @@ git commit -m "message"
 
 git checkout "onelinenumber" "filename.extn"
 git reset HEAD filename.extn
+git checkout -- filename
